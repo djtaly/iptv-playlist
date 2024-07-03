@@ -1,0 +1,54 @@
+#EXTM3U
+
+# Noticias
+#EXTINF:-1 tvg-id="BBCWorldNews" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/BBC_World_News.svg/1200px-BBC_World_News.svg.png" group-title="News",BBC World News
+https://iptv-org.github.io/iptv/news.m3u
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="News",CNN
+https://iptv-org.github.io/iptv/news.m3u
+
+# Deportes
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
+https://iptv-org.github.io/iptv/sports.m3u
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_Sports_logo.svg/1200px-Fox_Sports_logo.svg.png" group-title="Sports",Fox Sports
+https://iptv-org.github.io/iptv/sports.m3u
+
+# Entretenimiento
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="Entertainment",HBO
+https://iptv-org.github.io/iptv/entertainment.m3u
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2018_Comedy_Central_logo.svg/1920px-2018_Comedy_Central_logo.svg.png" group-title="Entertainment",Comedy Central
+https://iptv-org.github.io/iptv/entertainment.m3u
+
+# Música
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MTV_2021_%28brandmark%29.svg/1920px-MTV_2021_%28brandmark%29.svg.png" group-title="Music",MTV
+https://iptv-org.github.io/iptv/music.m3u
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/VH1_2013_logo.svg/1920px-VH1_2013_logo.svg.png" group-title="Music",VH1
+https://iptv-org.github.io/iptv/music.m3u
+
+# Infantiles
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+https://iptv-org.github.io/iptv/kids.m3u
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nickelodeon_2023_logo.svg/1920px-Nickelodeon_2023_logo.svg.png" group-title="Kids",Nickelodeon
+https://iptv-org.github.io/iptv/kids.m3u
+
+# Películas
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png" group-title="Movies",AMC
+https://iptv-org.github.io/iptv/movies.m3u
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Turner_Classic_Movies_logo_2021.svg/1920px-Turner_Classic_Movies_logo_2021.svg.png" group-title="Movies",TCM
+https://iptv-org.github.io/iptv/movies.m3u
+
+# Documentales
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/National_Geographic_channel.svg/1920px-National_Geographic_channel.svg.png" group-title="Documentaries",National Geographic
+https://iptv-org.github.io/iptv/documentaries.m3u
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Discovery_Channel_logo.svg/1920px-Discovery_Channel_logo.svg.png" group-title="Documentaries",Discovery Channel
+https://iptv-org.github.io/iptv/documentaries.m3u
+
+# Canales Regionales por Continentes
+#EXTINF:-1 tvg-id="Asia" tvg-name="Asian Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asianet_Logo.svg/1920px-Asianet_Logo.svg.png" group-title="Asia",Asian Channels
+https://iptv-org.github.io/iptv/asia.m3u
+#EXTINF:-1 tvg-id="Europe" tvg-name="European Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/European_Broadcasting_Union_logo.svg/1920px-European_Broadcasting_Union_logo.svg.png" group-title="Europe",European Channels
+https://iptv-org.github.io/iptv/europe.m3u
+#EXTINF:-1 tvg-id="Africa" tvg-name="African Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Logo_of_Africa_TV.svg/1920px-Logo_of_Africa_TV.svg.png" group-title="Africa",African Channels
+https://iptv-org.github.io/iptv/africa.m3u
+#EXTINF:-1 tvg-id="Americas" tvg-name="American Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Television_logo_of_the_Americas.svg/1920px-Television_logo_of_the_Americas.svg.png" group-title="Americas",American Channels
+https://iptv-org.github.io/iptv/americas.m3u
+#EXTINF:-1 tvg-id="Oceania" tvg-name="Oceanian Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oceania_TV_logo.svg/1920px-Oceania_TV_logo.svgPara crear un archivo M3U que puedas cargar desde un enlace directo en VLC, sigue estos pasos:
