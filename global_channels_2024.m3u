@@ -51,4 +51,6 @@ https://iptv-org.github.io/iptv/europe.m3u
 https://iptv-org.github.io/iptv/africa.m3u
 #EXTINF:-1 tvg-id="Americas" tvg-name="American Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Television_logo_of_the_Americas.svg/1920px-Television_logo_of_the_Americas.svg.png" group-title="Americas",American Channels
 https://iptv-org.github.io/iptv/americas.m3u
-#EXTINF:-1 tvg-id="Oceania" tvg-name="Oceanian Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oceania_TV_logo.svg/1920px-Oceania_TV_logo.svgPara crear un archivo M3U que puedas cargar desde un enlace directo en VLC, sigue estos pasos:
+#EXTINF:-1 tvg-id="Oceania" tvg-name="Oceanian Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oceania_TV_logo.svg/1920px-Oceania_TV_logo.svg.png" group-title="Oceania",Oceanian Channels
+https://iptv-org.github.io/iptv/oceania.m3u
+
